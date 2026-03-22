@@ -1,4 +1,4 @@
-# 📐 The Geometer's Keystone
+#  The Geometer's Keystone
 
 ### *A Historical Evolution of Triangle Geometry Theory*
 
