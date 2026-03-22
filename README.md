@@ -109,8 +109,14 @@ This research draws upon the foundational works of:
 
 ## Author
 
-Maintained by [Your Name] — for inquiries, suggestions, or collaboration, please open an issue or reach out via [email/contact].
+Om Gedam
 
----
+GitHub: [https://github.com/itsomg134](https://github.com/itsomg134)
 
-*"The triangle is the simplest polygon, yet it continues to generate new theorems and centers—a testament to the depth hidden within the elementary."*
+Email: [omgedam123098@gmail.com](mailto:omgedam123098@gmail.com)
+
+Twitter (X): [https://twitter.com/omgedam](https://twitter.com/omgedam)
+
+LinkedIn: [https://linkedin.com/in/omgedam](https://linkedin.com/in/omgedam)
+
+Portfolio: [https://ogworks.lovable.app](https://ogworks.lovable.app)
